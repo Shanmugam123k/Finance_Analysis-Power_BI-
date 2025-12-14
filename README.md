@@ -24,6 +24,9 @@ Key Insights
 Using this dashboard, users can answer questions such as:
 
 Which product categories generate the highest total amount and balance.
+
 How financial metrics differ between Enterprise and Retail segments.
+
 How costs and transactions are distributed across regions, countries, and currencies.
+
 What proportion of orders are Completed, Pending, or Failed in each geography.
