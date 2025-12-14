@@ -11,7 +11,9 @@ The Finance Analysis dashboard contains the following key visuals and KPIs:
 KPI cards showing overall Sum of Balance, Sum of UnitPrice, Sum of Amount, and Sum of Cost.
 
 Bar or column charts for:
+
 Sum of Amount by Category.
+
 Sum of Balance by Category.
 
 Charts for Count of Region by Currency and Count of Cost by Country.
